@@ -1,4 +1,6 @@
 # Desafio Primerio Projeto GIT/GITHUB DIO.ME 
-Desafio de Projeto sobre GIT/GITHUB
 
+Repositório Criado  para o Desafio de Projeto sobre GIT/GITHUB
+
+## Links Úteis
 [Sintaxe basica MarkDown](https://www.markdownguide.org/basic-syntax/)
