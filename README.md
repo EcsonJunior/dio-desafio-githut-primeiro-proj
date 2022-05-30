@@ -1,2 +1,2 @@
-# dio-desafio-githut-primeiro-proj
+# Desafio Primerio Projeto GIT/GITHUB DIO.ME
 Desafio de Projeto sobre GIT/GITHUB
